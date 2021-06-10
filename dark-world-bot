@@ -81,7 +81,7 @@ _set_bot () {
     _run__git
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    Starting Team destroyer spambot Spam Bot    "
+    echo "    Starting dark-world-op Spam Bot    "
     python3 -m userbot
 }
 
